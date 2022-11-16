@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 hjcgk
+=======
+iefnezoifnze
+>>>>>>> Elric-Active
